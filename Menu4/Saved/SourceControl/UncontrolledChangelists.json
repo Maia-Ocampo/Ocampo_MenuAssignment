@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/maia/Desktop/menuVer4/Menu4/Content/StartLevel.umap",
+				"/Users/maia/Desktop/menuVer4/Menu4/Content/__ExternalActors__/StartLevel/E/I9/N64YKHXO3FM643DXBEQI1O.uasset",
+				"/Users/maia/Desktop/menuVer4/Menu4/Content/WhiteBoxing/Level1WhiteBox.umap",
+				"/Users/maia/Desktop/menuVer4/Menu4/Content/UI/PauseMenu.uasset",
+				"/Users/maia/Desktop/menuVer4/Menu4/Content/WhiteBoxing/Level1WhiteBoxMenuVers.umap",
+				"/Users/maia/Desktop/menuVer4/Menu4/Content/Sequences/menuAnim.uasset",
+				"/Users/maia/Desktop/menuVer4/Menu4/Content/Sequences/anim2.uasset",
+				"/Users/maia/Desktop/menuVer4/Menu4/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
+				"/Users/maia/Desktop/menuVer4/Menu4/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"/Users/maia/Desktop/menuVer4/Menu4/Content/__ExternalActors__/StartLevel/2/WJ/SGW3O2MMEZ7MRR72YF537N.uasset",
+				"/Users/maia/menuVer4/Menu4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
